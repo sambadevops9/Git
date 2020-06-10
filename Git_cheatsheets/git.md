@@ -218,16 +218,6 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 
   ---
 
-- ### Forking (Contributing)
-
-  - to contribute to an open source project
-  - click on fork , which will copy the repo to your account
-  - make changes by pulling the repo,  then push it ( this will happen on your account )
-  - then go to the owner account's repo and create a pull request there
-  -  the owner can compare the changes and accept your changes 
-  - which will end up merging your changes to their project
-
----
 
 **Thank you for visiting 😊, Keep Learning 🤘**
 
